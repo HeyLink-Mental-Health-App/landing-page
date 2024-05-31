@@ -1,0 +1,44 @@
+/* Custom styles for HeyLink Landing Page */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.hero-section {
+    background: url('../assets/hero-bg.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 100px 0;
+}
+
+.hero-section h1 {
+    font-size: 3.5rem;
+}
+
+.hero-section .btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+#features i {
+    color: #007bff;
+    margin-bottom: 15px;
+}
+
+#features h3 {
+    margin-top: 20px;
+}
+
+#about {
+    background-color: #f8f9fa;
+}
+
+#contact {
+    background-color: #fff;
+}
+
+#contact .form-control {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #343a40;
+}
